@@ -1,0 +1,1 @@
+Arquivo de base para sites.
